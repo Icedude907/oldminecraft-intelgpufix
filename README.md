@@ -5,3 +5,7 @@ Currently avaliable for:
 Check the releases tab!
 
 More details to follow.
+
+### Before & After
+![](./docs/Before.png)
+![](./docs/After.png)
